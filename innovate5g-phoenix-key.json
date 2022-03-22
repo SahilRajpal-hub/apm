@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "innovate5g-phoenix",
+    "private_key_id": "926d60b308e32e8fb8801439e5a39f015910927b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDXG+ludZUlPHH\nn0nfEMg/T0rEII1mOB7QNFjSyCnH/A/HYi7SHawJajMGL/jE7sNabo/do2uI2WCn\nKs9occTNwbddxsJAJFcpdDhNYv3ScqFV3eyk7uif+yOsWA+HrR5QVK7cpOlqVwir\n3ZWH0IuP8+H1OaMxBLXxKhWRx9zpBM/OC5Wyd/ohBlyGkpiWpHu3/ev+xb0PF4ef\nZFrIJBAHFFqbbJnXsSD4qBL9avRiTJUknRyDeFNQUdaBLCg6VjG/BNmUxWx902QD\nmg/560Mk3Q+RF7B+NWAs21K4zXY56R6exEvTyqeVkpbVGX+lorE7RimaPxVXEnlH\nF5h9YhuVAgMBAAECggEAImEI8MQkWJwhdDyu1kdwxdthT+RencdwfLlJjEZXO+86\no56+mJFKLhn3QrZ8c8OEs0xTmvBgQyPl42UgPMQQmxjk+Oa6VmlOwWfHZK7v9fHg\nPGkidN/qJgUfAPw6N2katY5Be2i1/tW0G/KRluX3OWz0rZ/n/P9UOU1roEzorkSw\nSCgsh33xC3cT6ZnCUQE9i5o7WuPwweJFehXVo1BsodKau2Wo276loJvzFpp9ismV\nnsZFU/9MRRJeVlzG/Ar19k8jXtdgNISpgw5Hc68Agbemc8zy7u/qDr6Ahhg8stW2\nFNpHngFNv9BKEBrV8lmsX1liImuGTGFFvwqiedAqXQKBgQD6pDiwGk+f4eBk0u0e\npeTlOomYW98pg8x7cMOiHXkm6SmyJFdVC6p47EFRkTuxMMy3NbbqbTEyJ3+G+Q87\n4O6XcK5aoREgMEq48hy2LsPWj1FAGz/UlL0iEoMSrHyBdB8enrUEtKFdwIFui5Lf\nRkJf0DG6ZCab8Dl7k1aC3Tu/EwKBgQDHiak9XpFVT1PL3pVAhYYQEUUz+v6lWaMv\nPunjrnZClpNBZ1Yq5/YFwlxrG5LnAJim8V2R3KPdBzNqCoTSDLFGarnQLAB/+vDt\nfQ/RkgImn/muwP5xkV9cE6D2UWvdG9xQhOEp8sTI+Z/6CrAcoNJq7B4OqHDY8MSn\n1ibCHCEHtwKBgQCw9cdsVndHW9Pxe5ac3+XXDlhdcOgDyKFTug7147dJCLA+rTfX\nvM/UZoHLlC2/8cNnyw3lP8jPL2Hzqt7dmPb7hzwikrujrVTkdVReMHBmiXOFPnf3\noDhU2Rsf0RZq09Cw7r7BnsKbjbIUmYjOCS4NtdGWVuWHjbkYDbOz2302bwKBgQCK\nVxHj/3WpfNcvCEHYOvqolyCwmjsEbrIppmfIOAO7xOORO9DM7IdwlME4bSSbTZmI\nXN0vrJZbPovR4DsX2j7qAEKVZnxuPo/dR5C5Do65Mr6L/zgpis1fbChzvh2XbaKA\nnK/zQmJWqGLWm6RgJMvd35gzN2sNrVfauSmj+JaZ3wKBgDLDTrX78bLWr9orteEu\nLNKmtaW3OMClx71KZiNYTilj5wfoUiNlc0vLf7zIQPbRuIsRYpujfsb0bLO73695\nIGkkDSPOCDFg9jCwNGXLkhXMJzXyZeUOBUs+b1/+cA5Cery0BBZ0xNmin9YpUBoz\nIWDYOZEKeN1IUm0jPsJj7yks\n-----END PRIVATE KEY-----\n",
+    "client_email": "phoenix-storage@innovate5g-phoenix.iam.gserviceaccount.com",
+    "client_id": "116717328828815318455",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/phoenix-storage%40innovate5g-phoenix.iam.gserviceaccount.com"
+  }
+  
